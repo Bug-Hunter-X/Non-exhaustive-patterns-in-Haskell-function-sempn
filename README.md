@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Haskell: non-exhaustive patterns. The `bug.hs` file contains code that will throw an exception if the input list is empty. The `bugSolution.hs` file shows how to correct this by using safe pattern matching or guards to handle the empty list case.
